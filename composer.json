@@ -1,0 +1,8 @@
+{
+    "name": "gt-edge/edge-profile",
+    "description": "Drupal edge profile",
+    "type": "profile",
+    "require": {
+        "cweagans/composer-patches": "^1.7"
+    }
+}
