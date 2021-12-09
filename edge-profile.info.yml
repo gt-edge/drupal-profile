@@ -38,6 +38,16 @@ install:
   - views_ui
   - editor
   - ckeditor
+  - adminimal_admin_toolbar
+  - advagg
+  - better_exposed_filters
+  - config_split
+  - easy_breadcrumb
+  - field_formatter
+  - paragraphs
+  - pathauto
+  - sitemap
+  - webform
 
 # Required modules
 # Note that any dependencies of the modules listed here will be installed automatically.
