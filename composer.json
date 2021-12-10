@@ -1,5 +1,5 @@
 {
-    "name": "gt-edge/edge-profile",
+    "name": "gt-edge/drupal_edge_profile",
     "description": "Drupal edge profile",
     "type": "drupal-profile",
     "require": {
