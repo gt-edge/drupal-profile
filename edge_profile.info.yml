@@ -12,7 +12,7 @@ distribution:
   langcode: en
 
 # Modules to install to support the profile.
-install:
+install: 
   - history
   - block_content
   - breakpoint
@@ -43,7 +43,6 @@ install:
   - better_exposed_filters
   - config_split
   - easy_breadcrumb
-  - field_formatter
   - paragraphs
   - pathauto
   - sitemap
@@ -61,3 +60,4 @@ dependencies:
 themes:
   - bartik
   - seven
+  - adminimal_theme
