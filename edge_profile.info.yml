@@ -15,6 +15,7 @@ distribution:
 install:
   - block_content
   - breakpoint
+  - big_pipe
   - color
   - config
   - contextual
@@ -28,11 +29,15 @@ install:
   - field_ui
   - file
   - rdf
+  - dynamic_page_cache
+  - page_cache
   - views
   - views_ui
   - editor
   - ckeditor
   - adminimal_admin_toolbar
+  - admin_toolbar_tools
+  - admin_toolbar_links_access_filter
   - advagg
   - better_exposed_filters
   - config_split
@@ -41,9 +46,14 @@ install:
   - pathauto
   - sitemap
   - webform
+  - webform_node
+  - webform_ui
   - allowed_formats
   - media
   - media_library
+  - menu_ui
+  - metatag
+  - metatag_open_graph
 
 # Required modules
 # Note that any dependencies of the modules listed here will be installed automatically.
